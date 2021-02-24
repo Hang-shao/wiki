@@ -9,4 +9,6 @@ Y.Pam
 
 [博客](https://www.cnblogs.com/pam-sh/)
 
-[小站](http://wiki.span.fun/)
+[本项目](http://wiki.span.fun/)
+
+[小站](https://www.span.fun/)
