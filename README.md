@@ -12,3 +12,4 @@ Y.Pam
 [本项目](http://wiki.span.fun/)
 
 [小站](https://www.span.fun/)
+（域名挂了）
